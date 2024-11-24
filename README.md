@@ -11,8 +11,7 @@
         <div>
             <h1>Site abordando conteúdo desportivo</h1>
             Primeiro Site Desenvolvido com HTML5 E CSS3.
-
-            <img src="img jiu jitsu/MukaBJJ.jpg" alt="Atleta">
+<img src="img jiu jitsu/MukaBJJ.jpg" alt="Atleta">
         </div>
     </main>
 </body>
